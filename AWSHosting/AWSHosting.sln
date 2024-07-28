@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSHosting", "AWSHosting.csproj", "{7DCDD20B-3510-464C-8D95-4650739F9CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DCDD20B-3510-464C-8D95-4650739F9CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCDD20B-3510-464C-8D95-4650739F9CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCDD20B-3510-464C-8D95-4650739F9CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCDD20B-3510-464C-8D95-4650739F9CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2DCE23-15BF-400A-8208-23E18C4B8D38}
+	EndGlobalSection
+EndGlobal
