@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Amazon.CDK" Version="1.204.0" />
+    <PackageReference Include="Amazon.CDK.AWS.CloudFormation" Version="1.204.0" />
+    <PackageReference Include="Amazon.CDK.AWS.CustomResources" Version="1.204.0" />
+    <PackageReference Include="Amazon.CDK.AWS.EC2" Version="1.204.0" />
+    <PackageReference Include="Amazon.CDK.AWS.IAM" Version="1.204.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.7.0" />
+  </ItemGroup>
+
+</Project>
