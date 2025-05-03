@@ -1,6 +1,0 @@
-@AwsHostingApi_HostAddress = http://localhost:5136
-
-GET {{AwsHostingApi_HostAddress}}/AWSResource/
-Accept: application/json
-
-###
